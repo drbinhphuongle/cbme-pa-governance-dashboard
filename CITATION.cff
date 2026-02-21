@@ -5,12 +5,26 @@ type: software
 authors:
   - family-names: "Le"
     given-names: "Binh Phuong"
+version: "1.0.0"
+date-released: "2026-02-21"
+doi: "10.5281/zenodo.18721798"
+repository-code: "https://github.com/drbinhphuongle/cbme-pa-governance-dashboard"
+url: "https://doi.org/10.5281/zenodo.18721797"
 keywords:
   - CBME
   - programmatic assessment
+  - clinical competency committee
   - governance
-  - CCC
   - dashboard
-  - EPA
+  - entrustment
 license: "CC-BY-4.0"
-repository-code: "https://github.com/drbinhphuongle/cbme-pa-governance-dashboard"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Le"
+      given-names: "Binh Phuong"
+  year: 2026
+  title: "CBME Programmatic Assessment Governance + Dashboard Kit"
+  version: "1.0.0"
+  doi: "10.5281/zenodo.18721798"
+  url: "https://doi.org/10.5281/zenodo.18721798"
