@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "CBME Programmatic Assessment Governance + Dashboard Kit"
-message: "If you use this toolkit, please cite it."
+message: "If you use this toolkit, please cite the Zenodo record (version of record)."
 type: software
 authors:
   - family-names: "Le"
@@ -18,8 +18,13 @@ keywords:
   - dashboard
   - entrustment
 license: "CC-BY-4.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18721798"
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.18721797"
 preferred-citation:
-  type: generic
+  type: software
   authors:
     - family-names: "Le"
       given-names: "Binh Phuong"
