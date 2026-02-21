@@ -24,3 +24,14 @@ This project follows semantic versioning: vMAJOR.MINOR.PATCH.
 ### Notes
 - v1.0.0 is designed to run with minimal viable data and without LMS/EHR integration.
 - Demo dataset is simulated/starter-level and intended for demonstration and testing only.
+
+
+## v1.0.1 — 2026-02-21
+### Added
+- Runnable Excel dashboard (with embedded demo data):
+  - `/dashboard/excel/PA-Gov_DashboardKit_v1.0.0_with_demo_data_complete.xlsx`
+- Complete demo dataset (Excel):
+  - `/data/demo-dataset/PA-Gov_DemoDataset_v1.0.0_complete.xlsx`
+
+### Notes
+- Patch release adding runnable assets; **no changes** to decision rules or the data model.
