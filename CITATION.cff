@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "CBME Programmatic Assessment Governance + Dashboard Kit"
+message: "If you use this toolkit, please cite it."
+type: software
+authors:
+  - family-names: "Le"
+    given-names: "Binh Phuong"
+keywords:
+  - CBME
+  - programmatic assessment
+  - governance
+  - CCC
+  - dashboard
+  - EPA
+license: "CC-BY-4.0"
+repository-code: "https://github.com/drbinhphuongle/cbme-pa-governance-dashboard"
