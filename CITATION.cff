@@ -5,9 +5,9 @@ type: software
 authors:
   - family-names: "Le"
     given-names: "Binh Phuong"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-02-21"
-doi: "10.5281/zenodo.18721798"
+doi: "10.5281/zenodo.18722204"
 repository-code: "https://github.com/drbinhphuongle/cbme-pa-governance-dashboard"
 url: "https://doi.org/10.5281/zenodo.18721797"
 keywords:
@@ -18,11 +18,6 @@ keywords:
   - dashboard
   - entrustment
 license: "CC-BY-4.0"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.18721798"
-  - type: url
-    value: "https://doi.org/10.5281/zenodo.18721797"
 preferred-citation:
   type: software
   authors:
@@ -30,6 +25,6 @@ preferred-citation:
       given-names: "Binh Phuong"
   year: 2026
   title: "CBME Programmatic Assessment Governance + Dashboard Kit"
-  version: "1.0.0"
-  doi: "10.5281/zenodo.18721798"
-  url: "https://doi.org/10.5281/zenodo.18721798"
+  version: "1.0.1"
+  doi: "10.5281/zenodo.18722204"
+  url: "https://doi.org/10.5281/zenodo.18722204"
