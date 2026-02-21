@@ -30,8 +30,8 @@ Includes governance pack, decision rules, CCC templates, a lightweight dashboard
 
 ## How to cite
 
-**Version of record (v1.0.0):**  
-Le, B. P. (2026). *CBME Programmatic Assessment Governance + Dashboard Kit* (Version 1.0.0) [Software/toolkit]. Zenodo. https://doi.org/10.5281/zenodo.18721798
+**Version of record (v1.0.1):**  
+Le, B. P. (2026). *CBME Programmatic Assessment Governance + Dashboard Kit* (Version 1.0.1) [Software/toolkit]. Zenodo. https://doi.org/10.5281/zenodo.18722204
 
 **Concept DOI (always points to the latest release):**  
 https://doi.org/10.5281/zenodo.18721797
