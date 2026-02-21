@@ -11,8 +11,7 @@ This project follows semantic versioning: vMAJOR.MINOR.PATCH.
   - `/data/demo-dataset/PA-Gov_DemoDataset_v1.0.0_complete.xlsx`
 
 ### Notes
-- Patch release adding runnable assets; **no changes** to decision rules or the data model.
-
+- Patch release adding runnable assets; no changes to decision rules or the data model.
 
 ## v1.0.0 — 2026-02-21
 ### Added
@@ -26,7 +25,6 @@ This project follows semantic versioning: vMAJOR.MINOR.PATCH.
   - `/docs/implementation-guide/Implementation_60-90days_v1.0.0.md`
 - Data model and demo data:
   - `/data/data-dictionary/DataDictionary_v1.0.0.md`
-  - `/data/demo-dataset/PA-Gov_DemoDataset_v1.0.0_complete.xlsx`
 - Repository metadata:
   - `README.md`
   - `CITATION.cff`
@@ -35,6 +33,3 @@ This project follows semantic versioning: vMAJOR.MINOR.PATCH.
 ### Notes
 - v1.0.0 is designed to run with minimal viable data and without LMS/EHR integration.
 - Demo dataset is simulated/starter-level and intended for demonstration and testing only.
-
-
-
