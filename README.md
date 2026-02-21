@@ -1,4 +1,5 @@
 # CBME Programmatic Assessment Governance + Dashboard Kit
+[![DOI](https://zenodo.org/badge/116278637.svg)](https://doi.org/10.5281/zenodo.18721797)
 
 A minimal-data, decision-oriented governance and analytics toolkit for programmatic assessment in CBME.
 Includes governance pack, decision rules, CCC templates, a lightweight dashboard, and a demo dataset.
@@ -24,7 +25,12 @@ Includes governance pack, decision rules, CCC templates, a lightweight dashboard
 4. Use `/toolkit/templates/CCC_Minutes_Template_v1.0.0.docx` for CCC decisions
 
 ## How to cite
-Coming soon (DOI will be added after Zenodo release).
+
+**Version of record (v1.0.0):**  
+Le, B. P. (2026). *CBME Programmatic Assessment Governance + Dashboard Kit* (Version 1.0.0) [Software/toolkit]. Zenodo. https://doi.org/10.5281/zenodo.18721798
+
+**Concept DOI (always points to the latest release):**  
+https://doi.org/10.5281/zenodo.18721797
 
 ## License
 CC BY 4.0
