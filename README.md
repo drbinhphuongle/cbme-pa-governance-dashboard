@@ -21,8 +21,11 @@ Includes governance pack, decision rules, CCC templates, a lightweight dashboard
 
 ## Quick start
 1. Open `/dashboard/excel/PA-Gov_DashboardKit_v1.0.0_with_demo_data_complete.xlsx`
-2. Load `/data/demo-dataset/DemoDataset_v1.0.0.csv`
-3. Review outputs in the 3 dashboard views
+2. Open demo dataset `/data/demo-dataset/PA-Gov_DemoDataset_v1.0.0_complete.xlsx`
+3. Review outputs in the 3 dashboard views:
+   - `Learner_Snapshot`
+   - `EPA_Progress`
+   - `Quality_Fairness`
 4. Use `/toolkit/templates/CCC_Minutes_Template_v1.0.0.md` for CCC decisions
 
 ## How to cite
